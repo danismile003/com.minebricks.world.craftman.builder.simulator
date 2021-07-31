@@ -5,8 +5,8 @@
     "name": "video",
     "note": "default",
     "pack": "",
-    "pe1": 120,
-    "pe2": 180,
+    "pe1": 150,
+    "pe2": 200,
     "status": true,
     "testMode": false
   }
